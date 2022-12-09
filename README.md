@@ -1,7 +1,5 @@
 #### DATA602_ML_Project
 ## DISEASE Prediction using EMR (Electronic Medical Report)
-![](data/Picture1.jpg)
-<img src="data/Picture1.jpg" width="40">
 
 ## Data Source
 http://www.emrbots.org/
